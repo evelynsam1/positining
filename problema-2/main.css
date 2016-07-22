@@ -1,0 +1,25 @@
+/* Pon tu código css aqui */
+div{
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
+.rojo{
+	background-color: #ee3e64;
+    left:40%;
+    top:50px;
+}
+.azul{
+	background-color: #44accf;
+	left: 70%;
+	bottom: 30px;
+}
+.verde{
+	background-color: #b7d84b;
+	top:30px;
+	left:100px;
+}
+body{
+	margin:0;
+	padding: 0;
+}

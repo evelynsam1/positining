@@ -1,0 +1,30 @@
+/* Pon tu código css aqui */
+div{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+.rojo{
+	background-color: #ee3e64;
+	left:0;
+	top:0;
+}
+.azul{
+	background-color: #44accf;
+	right:0;
+	top:0;
+}
+.verde{
+	background-color: #b7d84b;
+	left:0;
+	bottom:0;
+}
+.amarillo{
+	background-color: #ffff00;
+	right:0;
+	bottom: 0;
+}
+body{
+	margin:0;
+	padding: 0;
+}
